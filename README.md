@@ -28,3 +28,8 @@ Please see [GETTING_STARTED.md](docs/GETTING_STARTED.md) for the basic usage of 
 CUDA_VISIBLE_DEVICES=0 python3 ./tools/benchmark.py configs/dcfa/dcfa_r50_fpn_1x.py work_dirs/dcfa_r50_fpn_1x/latest.pth
 ```
 
+## Pretrained Models
+
+Baidu cloud drive: https://pan.baidu.com/s/1n95GWt3Ek5J-FP9MCGLTlA
+
+Download password: ydby
