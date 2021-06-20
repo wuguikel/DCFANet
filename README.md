@@ -30,6 +30,4 @@ CUDA_VISIBLE_DEVICES=0 python3 ./tools/benchmark.py configs/dcfa/dcfa_r50_fpn_1x
 
 ## Pretrained Models
 
-Baidu cloud drive: https://pan.baidu.com/s/1n95GWt3Ek5J-FP9MCGLTlA
-
-Download password: ydby
+Google drive: https://drive.google.com/file/d/1NMPrnLPvLmdwyFQKmHJaoXGCF2vVsaon/view?usp=sharing
